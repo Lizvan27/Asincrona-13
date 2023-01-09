@@ -1,0 +1,29 @@
+[{
+    "Apellido": "Huansi",
+    "Casado": false,
+    "Direccion": "Jr. Huanuco 207 block A 203",
+    "Nombre": "Vanessa",
+    "Telefono": 836472544
+  },
+  {
+    "Apellido": "Acho",
+    "Casado": true,
+    "Direccion": "Jr. Huanuco 207 block A 203",
+    "Nombre": "Lizbeth",
+    "Telefono": 872472544
+  },
+  {
+    "Apellido": "Paz",
+    "Casado": false,
+    "Direccion": "Jr. Huanuco 207 block A 203",
+    "Nombre": "Yeffer",
+    "Telefono": 936472544
+  },
+  {
+    "Apellido": "Nuñez",
+    "Casado": false,
+    "Direccion": "Jr. Huanuco 207 block A 203",
+    "Nombre": "Irwin",
+    "Telefono": 836472544
+  }
+]
